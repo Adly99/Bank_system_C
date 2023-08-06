@@ -1,3 +1,5 @@
+## gcc Banksystem.c -o bank.exe 
+
 # Banksystem.c
   1. This is the program manual about bank information system. 
   2. This program is able to provide functionality for different users which contains Manager, Bank clerk and Customer.
